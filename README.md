@@ -133,13 +133,13 @@
   <img alig src="https://raw.githubusercontent.com/YanzBotz/YanzBotz/main/code.gif"/>
 </p>
 
-<a href="https://instagram.com/_aliciazyn">
+<a href="https://instagram.com/mrzrteam">
 <img alt="Instagram" title="follow me <3" src="https://img.shields.io/badge/-instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
     </p>
     <p align="center">
 
-<a href="https://wm.me/6288268142831">
-<a href="https://www.youtube.com/@aliciazyn">
+<a href="https://wm.me/6283127596164">
+<a href="https://www.youtube.com/@zrteam000">
 
 <img alt="Wwatsapp" title="follow me <3" src="https://img.shields.io/badge/-whatsapp-E4405F?style=flat&logo=Whatsapp&logoColor=white"/></a>
     </p>
